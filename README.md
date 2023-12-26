@@ -6,8 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<p align="left"> <img src="https://techmakers.tech/wp-content/themes/TechMakers-WP/assets/img/hero-img.png" align="right" alt="Techmakers" width="450" /> </p>
-
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - 👯 I’m looking to collaborate on **Frontend developer projects**
 
