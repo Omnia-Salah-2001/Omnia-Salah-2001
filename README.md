@@ -25,7 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omnia-salah-2001&show_icons=true&locale=en" alt="omnia-salah-2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omnia-salah-2001&" alt="omnia-salah-2001" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omnia206&show_icons=true&locale=en" alt="omnia206" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omnia206&" alt="omnia206" /></p>
 
