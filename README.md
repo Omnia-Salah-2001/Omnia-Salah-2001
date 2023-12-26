@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Website design and development**
 
-- 📫 How to reach me ****
+- 📫 How to reach me omniasalah207@gmail.com
 
 - ⚡ Fun fact **teamwork ✌️**
 
