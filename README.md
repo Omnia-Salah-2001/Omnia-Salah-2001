@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Frontend developer projects**
 
-- 🤝 I’m looking for help with **helps you as a businessman to focus on your company’s profits and take over the functions of your business.**
-
 - 💬 Ask me about **Website design and development**
 
 - 📫 How to reach me ****
