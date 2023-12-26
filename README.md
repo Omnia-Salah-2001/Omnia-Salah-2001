@@ -10,7 +10,7 @@
 - :school: I am a `Computer Science Fresh Graduate` from Faculty of Computers & Information at Cairo University
 - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/)
 - 🌱 I’m currently studing `Flutter`
-- 📫 How to reach me **manarshahin48@gmail.com**
+- 📫 How to reach me **omniasalah207@gmail.com**
 - :thinking: I’m currently open for: new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1HyP3E7MsGhheuTH-s1LKYGext9Exa17M/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
@@ -19,7 +19,7 @@
 
 ## 📩 Connect with me
 <p align="center">
-    <a href="mailto:manarshahin48@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+    <a href="mailto:omniasalah207@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/manarshahin48" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/manarshahin48/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
