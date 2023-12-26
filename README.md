@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omnia Salah</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
-		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Omnia-Salah-2001&label=Profile%20views&color=0e75b6&style=flat" alt="Omnia-Salah-2001" />
+		   <img src="https://img.shields.io/github/followers/Omnia-Salah-2001?label=Followers" alt="Omnia-Salah-2001" />
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
@@ -18,8 +18,8 @@
 ## 📩 Connect with me
 <p align="center">
     <a href="mailto:omniasalah207@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-<a href="https://www.facebook.com/manarshahin48" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/manarshahin48/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+<a href="https://www.facebook.com/Omnia-Salah-2001" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/Omnia-Salah-2001/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
 ## 🛠 Languages and Tools
@@ -32,12 +32,12 @@
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=tokyonight_duo" alt="manarshahin48" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Omnia-Salah-2001&theme=tokyonight_duo" alt="Omnia-Salah-2001" /></p>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
+	    <img alt="Omnia-Salah-2001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Omnia-Salah-2001&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omnia-Salah-2001&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Omnia-Salah-2001" height="230px"/>
 <br/>
 
 
