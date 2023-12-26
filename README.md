@@ -25,4 +25,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omnia-salah-2001&" alt="omnia-salah-2001" /></p>
 
+## 📊 Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Omnia-Salah-2001
+&theme=tokyonight_duo" alt="Omnia-Salah-2001
+" /></p>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Omnia-Salah-2001
+'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Omnia-Salah-2001
+&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omnia-Salah-2001
+&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Omnia-Salah-2001
+" height="230px"/>
+<br/>
+
 
