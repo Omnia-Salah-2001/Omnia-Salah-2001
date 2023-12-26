@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omnia Salah</h1>
-<h3 align="center">Frontend developer</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omnia206" alt="omnia206" /></a> </p>
 
